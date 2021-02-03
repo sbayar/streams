@@ -1,6 +1,6 @@
 # About the project
 
-This project utilizes Google OAuth, React, React-redux and redux-form.\
+This project utilizes Google OAuth, Node media server (Real Time Messaging Protocol), React, React-redux and redux-form.\
 
 # Getting Started with Create React App
 
